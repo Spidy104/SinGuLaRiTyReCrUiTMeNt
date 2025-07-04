@@ -10,7 +10,5 @@ wheels/
 .venv/
 
 #Random ass files
-*.png
-*.txt
 *.lock
 *.log

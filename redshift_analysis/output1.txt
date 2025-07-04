@@ -1,0 +1,85 @@
+======================================================================
+GALAXY REDSHIFT ANALYSIS
+======================================================================
+Using cosmology: Planck18
+H0 = 67.66 km / (Mpc s)
+Ωm = 0.310
+ΩΛ = 0.689
+
+ANALYZING: Andromeda (M31)
+--------------------------------------------------
+Type: Spiral Galaxy
+Given redshift (z): -0.001001
+Calculated redshift: 0.000029
+Rest wavelength: 656.281 nm
+Observed wavelength: 656.300 nm
+
+VELOCITY CALCULATIONS:
+Classical (v = cz): 300.1 km / s
+Relativistic: 299.9 km / s
+Direction: APPROACHING (blue-shifted)
+
+Note: Negative redshift indicates local motion, not cosmological expansion
+Distance calculation not applicable for blue-shifted objects
+Notes: Nearest major galaxy, blue-shifted due to local motion
+
+======================================================================
+
+ANALYZING: NGC 4889 (Coma Cluster)
+--------------------------------------------------
+Type: Elliptical Galaxy
+Given redshift (z): 0.023100
+Calculated redshift: 0.023037
+Rest wavelength: 656.281 nm
+Observed wavelength: 671.400 nm
+
+VELOCITY CALCULATIONS:
+Classical (v = cz): 6925.2 km / s
+Relativistic: 6845.2 km / s
+Direction: RECEDING (red-shifted)
+
+DISTANCE CALCULATIONS:
+Luminosity distance: 104.15 Mpc
+Angular diameter distance: 99.50 Mpc
+Comoving distance: 101.80 Mpc
+Light travel distance: 100.64 Mpc
+
+HUBBLE LAW COMPARISON:
+Expected Hubble velocity: 6887.7 km / s
+Observed velocity: 6845.2 km / s
+Notes: Galaxy in Coma cluster, cosmological redshift
+
+======================================================================
+
+REDSHIFT RANGE DEMONSTRATION
+==================================================
+z        v_class(km/s) v_rel(km/s)  Distance(Mpc)   Lookback(Gyr)
+----------------------------------------------------------------------
+0.001    300          300          4               0.01
+0.010    2998         2983         44              0.14
+0.100    29979        28487        433             1.35
+0.500    149896       115305       1946            5.20
+1.000    299792       179875       3396            7.94
+2.000    599585       239834       5308            10.51
+5.000    1498962      283587       7946            12.62
+
+======================================================================
+SUMMARY COMPARISON
+======================================================================
+
+1. Andromeda (M31):
+   - Blue-shifted (z = -0.001001)
+   - Approaching at 299.9 km / s
+   - Local motion, not cosmological expansion
+
+2. NGC 4889 (Coma Cluster):
+   - Red-shifted (z = 0.023100)
+   - Receding at 6845.2 km / s
+   - Distance: 101.8 Mpc
+   - Follows Hubble's law within measurement uncertainties
+
+Key Insights:
+- Andromeda shows blue-shift due to local gravitational attraction
+- NGC 4889 shows cosmological red-shift due to universe expansion
+- For high redshifts (z > 0.1), relativistic effects become important
+- Distance measurements require positive redshift and cosmological model

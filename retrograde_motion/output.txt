@@ -1,0 +1,15 @@
+Downloading https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de430.bsp
+|===========================================================================================================================| 119M/119M (100.00%)      1m 8s
+Plotting planetary retrograde motion...
+This may take a moment to calculate positions...
+Calculating Mars positions...
+Mars retrograde motion: 95.2 days total
+Calculating Jupiter positions...
+Jupiter retrograde motion: 318.6 days total
+
+Retrograde motion explanation:
+- Retrograde motion occurs when Earth overtakes outer planets in orbit
+- The planet appears to move backwards against the star background
+- Mars shows retrograde motion approximately every 26 months
+- Jupiter shows retrograde motion approximately every 13 months
+- The loops in the sky path show the characteristic retrograde motion pattern
