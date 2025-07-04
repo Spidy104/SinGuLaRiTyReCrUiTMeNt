@@ -1,0 +1,13 @@
+[project]
+name = "recruitment-singularity"
+version = "0.1.0"
+description = "A complete collection of Python-based tools for analyzing various astronomical phenomena, from planetary motion to galaxy redshifts and exoplanet transits."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "astropy>=7.1.0",
+    "jplephem>=2.23",
+    "lightkurve>=2.5.1",
+    "matplotlib>=3.10.3",
+    "scipy>=1.16.0",
+]
